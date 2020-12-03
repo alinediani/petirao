@@ -1,0 +1,21 @@
+#pág_inicial{
+	width: 100%;
+	margin-left : auto;
+	margin-right : auto;
+	background-color: white;
+
+}
+	#chamada_cad{
+		float : center;
+		margin-top : 5px;
+		background-color : gold;
+	}
+
+	#rodapé{
+		height : 100px;
+		float : left;
+		margin-top : 10px;
+		background-color : RoyalBlue;
+		text-align : center;
+		color : white;
+	}

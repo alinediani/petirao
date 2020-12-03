@@ -1,0 +1,14 @@
+.btnMaisBotoes {
+    position: fixed;
+    float: bottom;
+    bottom: 15px;
+    right: 15px;
+    z-index: 100;
+}
+
+.btnPrincipal {
+    background-color: forestgreen;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+}

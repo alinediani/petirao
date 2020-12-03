@@ -1,0 +1,100 @@
+#pág_inicial{
+	width: 960px;
+	margin-left : auto;
+	margin-right : auto;
+	background-color: white;
+}
+
+	#cabeçalho{
+		width : 1550px;
+		height : 194px;
+		float : left;
+		background-color : RoyalBlue;
+	}
+
+		#logo{
+			margin-left : 275px;
+			width: 301px;
+			height: 148px;
+		}
+		
+		#AreaCli{
+			width: 301px;
+			height: 148px;
+			margin-left:1050px;
+			color: white;
+		}
+		
+	#menu{
+		width : 1550px;
+		height : 40px;
+		float : left;
+		margin-top : 5px;
+		background-color : ForestGreen;
+	}
+	
+		#menu ul{
+			margin-left : 275px;
+			padding:0;
+			float: left;
+		}
+		
+			#menu ul li{
+				display: inline;
+			}
+			
+				#menu ul li a{
+					float: left; 	
+					text-decoration:none;
+					color:white;
+					padding: 8px 11px;
+					margin-left: 65px;
+					background-color: ForestGreen;
+				}
+				
+				#menu ul li a:visited {
+					color:white;
+				}
+				
+				#menu ul li a:hover, #menu ul li .current{
+					color:ForestGreen;
+					background-color:white;
+				}	
+
+	#content{
+		width : 960px;
+		height : auto;
+		float : left;
+		margin-top : 5px;
+		background-color : white;
+	}
+	
+		#caixa-conteudo {
+			width : 281px;
+			height : 206px;
+			float : left;
+			margin-left : 30px;
+			padding-left : 0px;
+			margin-top : 20px;
+			background-color : black;
+			text-align : center;
+			color: white;
+		}
+
+	#chamada_cad{
+		width : 960px;
+		height : 450px;
+		float : left;
+		margin-top : 5px;
+		background-color : gold;
+	}
+
+	#rodapé{
+		width : 1550px;
+		height : 100px;
+		float : left;
+		margin-top : 10px;
+		background-color : RoyalBlue;
+		text-align : center;
+		color : white;
+	}
